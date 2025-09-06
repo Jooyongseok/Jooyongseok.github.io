@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #ffffff;
+  --fg: #0f172a;
+}
+
+body { background: var(--bg); color: var(--fg); }
+a { text-underline-offset: 2px; }
+.container { @apply max-w-6xl; }
+.card { @apply rounded-2xl shadow-sm border p-6 bg-white; }
+.h1 { @apply text-3xl md:text-4xl font-semibold tracking-tight; }
+.h2 { @apply text-2xl md:text-3xl font-semibold; }
+.lead { @apply text-lg text-gray-600; }

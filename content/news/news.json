@@ -1,0 +1,18 @@
+[
+  {
+    "id": "sample-1",
+    "date": "2025-08-01",
+    "title_ko": "하드사이언스, 샘플 뉴스 1",
+    "title_en": "HADD SCIENCE, Sample News 1",
+    "excerpt_ko": "요약문을 여기에 입력하세요.",
+    "excerpt_en": "Put the summary here."
+  },
+  {
+    "id": "sample-2",
+    "date": "2025-07-15",
+    "title_ko": "하드사이언스, 샘플 뉴스 2",
+    "title_en": "HADD SCIENCE, Sample News 2",
+    "excerpt_ko": "요약문을 여기에 입력하세요.",
+    "excerpt_en": "Put the summary here."
+  }
+]
